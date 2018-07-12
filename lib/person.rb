@@ -10,7 +10,7 @@ end
 
 def name 
   @name = name
-  puts = "Fido"
+  puts = "Beyonce"
 end
 
 def name = (new_name)
@@ -19,7 +19,7 @@ end
 
 def job
   @job = job
-  puts = "Beagle"
+  puts = "singer"
 end
 
 def job = (new_job)

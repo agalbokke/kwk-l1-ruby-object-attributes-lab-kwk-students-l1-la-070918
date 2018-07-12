@@ -1,6 +1,6 @@
 # dog.rb
 class Dog
- def initalize(name,breed)
+ def intalize(name,breed)
  @name = name
  @breed = breed
 end

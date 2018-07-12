@@ -17,13 +17,13 @@ def name = (new_name)
   @name = new_name
 end
 
-def breed
-  @name = breed
-  puts = "Beagle"
+def job
+  @job = job
+  puts = ""
 end
 
-def breed = (new_breed)
-  @breed = new_breed
+def job = (new_job)
+  @job = new_job
   
 end
 end

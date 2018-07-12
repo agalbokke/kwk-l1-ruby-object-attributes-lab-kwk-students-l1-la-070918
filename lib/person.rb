@@ -7,8 +7,7 @@ class Person
 end
 
 def name 
-  @name = name
-  puts = "Beyonce"
+  @name = "Beyonce"
 end
 
 def name = (new_name)
@@ -16,8 +15,7 @@ def name = (new_name)
 end
 
 def job
-  @job = job
-  puts = "singer"
+  @job = "singer"
 end
 
 def job = (new_job)
